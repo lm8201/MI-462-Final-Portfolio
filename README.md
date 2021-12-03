@@ -1,4 +1,4 @@
-# Pytorch Project Analysis
+# LeeAnn Markwalter - Data Analytics Portfolio 
 Summary: 
 
 The objective of this project is to build a model for text classification analysis. Essentially the model is trained so that when used on a dataset, text can be classified by defined labels based on the content of the text. Torchtext library is used to build the dataset for text classification analysis. More specifically, the AG_NEWS dataset is used. This dataset is used because it contains iterators which yield raw data as a pair of labels and text, making it possible to run text classification procedures. Many packages from Pytorch are used to successfully complete the modelling objective. The specific names of the  tools, datasets, and pretrained models can be found in the Overview of Modelling Approach section. 
